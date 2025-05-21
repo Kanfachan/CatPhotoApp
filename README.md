@@ -15,7 +15,7 @@
 
 Greetings!
 
--The **CatPhotoAPP** is a HTML workshop offered by freeCodeCamp. 
+-The **CatPhotoApp** is a HTML workshop offered by freeCodeCamp. 
 
 -The purpose of this HTML project is to learn, and better understand, HTML by building a Cat Photo App webpage. 
 
