@@ -41,11 +41,11 @@ Greetings!
 
 ## GitHub Deployment Location (HTTPS)
 
-
+https://kanfachan.github.io/CatPhotoApp/
 
 ## GitHub Repository Location (HTTPS)
 
-https://github.com/Kanfachan/CatPhotoApp_freeCodeCamp
+https://github.com/Kanfachan/CatPhotoApp
 
 ## Credits
 
